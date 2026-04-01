@@ -2,7 +2,7 @@
 
 The official documentation for [SCNX](https://scnx.xyz) — view it live at [docs.scnx.xyz](https://docs.scnx.xyz).
 
-> **This project is not open source.** The source code is shared publicly to allow community contributions (typo fixes, translation improvements, new documentation pages), but all rights are reserved by ScootKit. You may not copy, redistribute, or use this code to build or host your own version of the documentation. Due to proprietary dependencies (FontAwesome Pro, internal API integrations), the project cannot be built on external machines without a license.
+> **This project is not open source.** The source code isi shared publicly to allow community contributions (typo fixes, translation improvements, new documentation pages), but all rights are reserved by ScootKit. You may not copy, redistribute, or use this code to build or host your own version of the documentation. Due to proprietary dependencies (FontAwesome Pro, internal API integrations), the project cannot be built on external machines without a license.
 
 ## Structure
 
